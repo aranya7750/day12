@@ -15,5 +15,6 @@
 
 <div class="jumbotron text-center text-white mys" style="margin-bottom:0">
   <h1 class="jtext">ระบบลงทะเบียน จ่ายเงินช่วยเหลือภาระค่าใช้จ่าย</h1>
-  <h3 class="jtext">ในสถานะการแพร่ระบาด covid 19</h3> 
+  <h3 class="jtext">ในสถานะการแพร่ระบาด covid 19</h3>
+  <h3 class="jtext">แก้ไขรอบที 1</h3>  
 </div>
